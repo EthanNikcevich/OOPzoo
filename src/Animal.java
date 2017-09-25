@@ -11,7 +11,6 @@ public class Animal {
         this.name=name;
         this.favoriteFood=favoriteFood;
         population++;
-
     }
 
     public void sleep() {

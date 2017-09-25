@@ -5,8 +5,6 @@ public class Zoo {
     String favoriteFood="bacon";
     public static void main(String[] args) {
         Zoo z = new Zoo();
-        //z.sleep("Tigger");
-        //z.eat("Tigger","meat");
     }
 
     public void sleep(String name) {

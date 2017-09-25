@@ -15,9 +15,10 @@ public class Runner {
         A.add(tigger);
         A.add(pooh);
         A.add(rarity);
+        A.add(stinger);
 
         Zookeeper zoebot = new Zookeeper("Zoebot");
-        zoebot.feedAnimals(A,"cookies");
+        zoebot.feedAnimals(A,"pollen");
 //        tigger.eat("meat");
 //        pooh.eat("fish");
 //        pooh.eat("meat");
